@@ -1,5 +1,5 @@
 const SEARCHFORM = '#searchTerm';
-const SEARCHRESULT = 'The following pages were found for the query: ';
+const SEARCHRESULT = 'were found for the query: ';
 
 class SearchForm {
     static fillSearch (input) {
